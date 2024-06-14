@@ -1,4 +1,4 @@
-.nav {
+.nav{
     position: relative;
     padding: 0px, 120px, 0px, 120px;
     height: 60px;
@@ -35,10 +35,12 @@
     margin-bottom: 12px;
   }
 
-  .link-home {
+  .link-home:hover {
     color: #090909;
     line-height: 25.51px;
     text-decoration: none;
+   font-weight: 900px;
+   
   }
 
   #aboutme {
@@ -112,3 +114,5 @@
     height: 40px;
     width: 200px;
   }
+
+ 
